@@ -1,2 +1,6 @@
+general:
+  writable_directories: []
+
 web:
   document_root: 'web'
+  locations: []
