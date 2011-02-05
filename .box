@@ -1,5 +1,5 @@
 general:
-  writable_directories: ['app/cache']
+  writable_directories: ['app/cache', 'app/logs']
 
 web:
   document_root: 'web'
