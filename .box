@@ -4,3 +4,5 @@ general:
 web:
   document_root: 'web'
   locations: []
+  
+error_pages: []
