@@ -4,4 +4,3 @@ general:
 web:
   document_root: 'web'
   default_gateway: 'app.php'
-  index_list: ['app.php']
