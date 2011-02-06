@@ -3,4 +3,4 @@ general:
 
 web:
   document_root: 'web'
-  default_gateway: 'app.php'
+  default_gateway: 'app_dev.php'
